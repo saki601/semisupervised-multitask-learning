@@ -1,9 +1,9 @@
 termcolor==1.1.0
-torchvision==0.9.1
+torchvision==0.15.0
 tqdm==4.61.1
 albumentations==0.5.1
 numpy==1.19.2
-torch==1.8.1
+torch==2.2.0
 absl_py==0.13.0
 opencv_contrib_python==4.5.1.48
 Pillow==10.0.1
